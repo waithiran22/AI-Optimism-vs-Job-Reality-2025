@@ -1,0 +1,7 @@
+isco_level,code,label,ai_exposed_flag,notes
+1-digit,OC2,Professionals,1,"Proxy for AI-adjacent (includes 21,25 subgroups)"
+1-digit,OC3,Technicians and associate professionals,1,"Proxy for AI-adjacent (includes 31,35 subgroups)"
+2-digit,21,Science and engineering professionals,1,Optional: use when you download 2-digit
+2-digit,25,Information and communications technology professionals,1,Optional: use when you download 2-digit
+2-digit,31,Science and engineering associate professionals,1,Optional: use when you download 2-digit
+2-digit,35,Information and communications technicians,1,Optional: use when you download 2-digit
